@@ -54,6 +54,7 @@ Generates a .csv file with all the states you missed for future practice 📄
 
 Here’s a little sneak peek of the gameplay!
 
+
 ![map-quiz-game-preview](https://github.com/user-attachments/assets/34f608af-c3fc-40d2-b21a-13a2d854bdc0)
 
 
