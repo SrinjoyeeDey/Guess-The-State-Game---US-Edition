@@ -50,11 +50,14 @@ Generates a .csv file with all the states you missed for future practice 📄
 
 
 
-🖼️ Screenshot / GIF
+# 🖼️ Screenshot / GIF
 
 Here’s a little sneak peek of the gameplay!
-(You can add a GIF here once you upload it to your repo.)
 
+![map-quiz-game-preview](https://github.com/user-attachments/assets/34f608af-c3fc-40d2-b21a-13a2d854bdc0)
+
+
+---
 # 📁 File Structure
 
 guess-the-state-game/
